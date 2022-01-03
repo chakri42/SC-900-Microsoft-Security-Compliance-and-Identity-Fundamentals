@@ -29,7 +29,7 @@ In this lab, you will explore the function of network security groups in Azure. 
 
     1. Resource group:  select **Create new** then in the Name field enter **LabsSC900**, then select **OK**.
     1. Virtual machines name:  enter **SC900-WinVM**.
-    1. Image:  from the drop-down, select **Windows 10 Pro, Version 20H2 – Gen 1**.
+    1. Image:  from the drop-down, select **Windows 10 Pro, Version 20H2 – Gen 2**.
     1. Size:  select **see all sizes** from the drop-down and select **B2s**, then press **Select** on the bottom of the page.
     1. Username:  enter **AzureUser**.
     1. Password:  enter **SC900AzureLabs**.
@@ -65,7 +65,7 @@ In this lab, you will explore the function of network security groups in Azure. 
 1. In the Filter services box next to where it says All services, enter **Network security groups** then from the results, select **Network security groups** (do not select Network security groups classic).
 1. From the top of Network security groups page, select **+ Create**.
 1. On the Basics tab of the Create network security group page, specify the following settings:
-    1. Subscription:  Azure Pass – Sponsorship
+    1. Subscription:  Azure HOL XXXX
 
     1. Resource group:  **LabsSC900**
     1. Name:  **NSG-SC900**
